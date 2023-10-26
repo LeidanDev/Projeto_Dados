@@ -1,0 +1,1 @@
+Projeto desenvolvido no PostgreSQL com integração com Excel para fazer o dashboard. No Excel além do dashboard contem o "código" sql para consulta ou para caso futuro analista precise revisar ou atualizar alguma coisa.
